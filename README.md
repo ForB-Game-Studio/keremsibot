@@ -1,6 +1,5 @@
-</div><div align="center"><h4>Discord_ID:726544200056701018<h4></div>
+</div><div align="center"><h4>Discord_ID:830495166296096799, Discord_ID:726544200056701018<h4></div>
 
-<div align="center"><h4>Discord_ID:830495166296096799<h4></div>
 <div align="center">
 
   [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/830495166296096799?theme=dark&bg=2C2F33&animated=true&hideDiscrim=true&hideStatus=true&hideTimestamp=false&borderRadius=30px&idleMessage=Nothing...)](https://discord.com/users/830495166296096799)
